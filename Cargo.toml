@@ -1,0 +1,12 @@
+[package]
+name = "nes-emu"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dependencies.bitflags]
+version = "2.4.2"
+
+[dependencies.impl_ops]
+version = "0.1.1"
